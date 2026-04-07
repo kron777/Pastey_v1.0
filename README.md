@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pastey1.jpg" width="100%"/>
+  <img src="assets/banner_1280x640.jpg" width="100%"/>
 </p>
 
 <h1 align="center">Pastey_v1.0</h1>
