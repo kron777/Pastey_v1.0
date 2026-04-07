@@ -1,0 +1,9 @@
+# Pastey_v1.0 — AI Terminal Bridge
+# Install with: pip install -r requirements.txt
+
+pyperclip
+python-xlib
+pynput
+
+# System dependencies (Linux):
+# sudo apt install xclip xdotool wmctrl -y
